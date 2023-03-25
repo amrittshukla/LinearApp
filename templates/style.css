@@ -1,0 +1,93 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #f7f7f7;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  /* Navigation Styles */
+  nav {
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Home Page Styles */
+  .home-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 50px;
+  }
+  
+  .home-text {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  /* Result Page Styles */
+  .result-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 50px;
+  }
+  
+  .result-text {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  /* Error Page Styles */
+  .error-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 50px;
+  }
+  
+  .error-text {
+    font-size: 18px;
+    margin-top: 20px;
+    color: #dc3545;
+  }
+  
